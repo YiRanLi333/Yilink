@@ -1,2 +1,3 @@
+185.196.41.83:443#NL @Asuna Channel
 37.59.96.25:443#FR @Asuna Channel
 191.44.99.86:443#DE @Asuna Channel
