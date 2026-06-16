@@ -1,3 +1,5 @@
+191.44.99.145:443#DE @Asuna Channel
+191.44.99.139:443#DE @Asuna Channel
 209.97.171.87:443#SG @Asuna Channel
 170.64.197.150:443#AU @Asuna Channel
 212.41.15.119:443#RU @Asuna Channel
@@ -9,5 +11,3 @@
 188.166.150.159:443#GB @Asuna Channel
 2.57.242.152:443#FI @Asuna Channel
 188.226.153.100:443#NL @Asuna Channel
-45.141.148.141:443#TR @Asuna Channel
-2.27.122.114:443#FI @Asuna Channel
