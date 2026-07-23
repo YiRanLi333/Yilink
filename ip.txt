@@ -1,3 +1,4 @@
+144.31.113.155:443#PL @Asuna Channel
 147.79.20.181:443#JP @Asuna Channel
 176.97.74.45:443#EE @Asuna Channel
 150.251.138.18:443#NL @Asuna Channel
@@ -10,4 +11,3 @@
 144.31.116.113:443#DE @Asuna Channel
 167.172.65.175:443#SG @Asuna Channel
 152.53.200.174:443#NL @Asuna Channel
-144.172.88.34:443#AE @Asuna Channel
