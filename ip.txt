@@ -1,3 +1,4 @@
+158.178.215.52:443#FR @Asuna Channel
 185.231.59.142:443#DE @Asuna Channel
 138.3.254.178:443#DE @Asuna Channel
 144.31.188.50:443#DE @Asuna Channel
@@ -10,4 +11,3 @@
 147.90.26.49:443#FR @Asuna Channel
 138.124.75.161:443#FI @Asuna Channel
 146.70.71.157:443#CH @Asuna Channel
-144.31.155.30:443#FI @Asuna Channel
